@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ojas Dubey, ECE undergrad at IIIT-NR
-- 👀 I’m interested in Web Development, Dev-ops and Competitive programming
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web Development, Dev-ops and Competitive programming,
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -  Gmail[dubeyojas16@gmail.com]
 
